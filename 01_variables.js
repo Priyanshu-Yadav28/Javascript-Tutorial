@@ -9,8 +9,8 @@ accoundPassword = "1112211238"
 accountCity = "Uttar Pradesh"
 
 /*
-    ->Do not prefer using var
-    ->Use only let and const
+    ->Do not prefer using var becasue of issue of block scope and functional scope. 
+    ->Use only let and const. 
     ->you can use nothing while declaring a variable too(line 4) but that too is not prefered. 
 */
 console.log(accoundId);  // this to print the data normallay 
